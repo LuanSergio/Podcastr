@@ -34,7 +34,7 @@ export default function Episode({ episode }: EpisodeProps) {
     <>
       <div className={styles.episode}>
         <Head>
-          <title>Home | Podcastr</title>
+          <title>Home | {episode.title}</title>
         </Head>
         <div className={styles.thumbnailContainer}>
           <Link href="/">
