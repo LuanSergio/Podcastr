@@ -52,15 +52,7 @@
 
 ### What is Next Level Week?
 
-Next Level Week is a recurring online programming event made by the brazilian company [Rocketseat](https://github.com/Rocketseat). The event only last one week, with all it's content being deleted after that period, to avoid procrastination, since you must finishes it in one week. Each event focus on different aspects of the proposed language/framework. [Click here](https://nextlevelweek.com/) to see more.
-
-### Why did I decide to do this project?
-
-I always loved puzzle and logic related games like Sudoku, Sokoban and Picross.
-<br>
-Since I really wanted to do something that could be challenging and could help me improve my logic, JS and CSS skills, I decided to recreate a game that would use a bunch of logic and that would put me out of my comfort zone.
-<br>
-While thinking about my options, I notice that I had no idea how it was to work with mouse events on JS (aside from the vanilla click), so the Picross seemed like a good way to take a real challenge.
+Next Level Week is a recurring online programming event made by the brazilian company [Rocketseat](https://github.com/Rocketseat). The event only last one week, with all it's content being deleted after that period, to avoid procrastination, since you must finishes it in one week. Each event focus on different aspects of the proposed language/framework. [Click here](https://nextlevelweek.com/) to know more.
 
 <div align="center">
   <img  src="/docs/division.png" />
@@ -82,7 +74,6 @@ You can **[click here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcas
 
 <p>Technologies used in this project:</p>
 
-- HTML, CSS and JS
 - [ReactJS](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
