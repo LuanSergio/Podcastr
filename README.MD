@@ -36,6 +36,8 @@
 
 - <strong>Repeat:</strong> Toggleable repeat button, to turn repeat on and off.
 
+- <strong>Single Page Application:</strong> The app only has one page
+
 - <strong>Incremental Static Regeneration:</strong> Each episode has an automatic generated standalone page that is created using Next.js Incremental Static Regeneration.
 
 - <strong>SSR:</strong> Server Side Rendering made with Next.js, to make sure that everything runs smoothly and SEO friendly.
