@@ -1,8 +1,8 @@
 # Podcastr
 
 <h1 align="center">
-  <a href="https://picrossuniverse.netlify.app/">	
-    <img alt="Picross Universe" title="Podcastr" src="/docs/logo.png" />
+  <a href="https://podcastr-deploy.vercel.app/">	
+    <img alt="Podcastr" title="Podcastr" src="/docs/logo.png" />
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
   <strong >
     A Platform built for podcast broadcasting. <br>
     Developed during the Next Level Week 5, created by Rocketseat. <br>
-    <a href="/">Click here</a> for a live version.
+    <a href="https://podcastr-deploy.vercel.app/">Click here</a> for a live version.
   </strong>  
 </p>
 <br>
@@ -24,7 +24,7 @@
   <a href="#memo-License"><strong>License</strong></a>
 </p>
 
-<a href="">	
+<a href="https://podcastr-deploy.vercel.app/">	
   <img src="/docs/icon.png" align="right" />
 </a>
 
@@ -43,12 +43,12 @@
 - <strong>SSR:</strong> Server Side Rendering made with Next.js, to make sure that everything runs smoothly and SEO friendly.
 
 <div align="center">
-  <img  src="/docs/division.png" />
+  <img src="/docs/division.png" />
 </div>
 
 ## :speech_balloon: About:
 
-<a href="/">	
+<a href="https://podcastr-deploy.vercel.app/">	
   <img src="/docs/layout-preview.png" />
 </a>
 
@@ -72,7 +72,7 @@ You can **[click here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcas
   <img  src="/docs/division.png" />
 </div>
 
-## :robot: Technologies and Tools
+## :robot: Technologies, tools and libraries
 
 <p>Technologies used in this project:</p>
 
@@ -82,6 +82,13 @@ You can **[click here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcas
 - [Sass](https://sass-lang.com/)
 - [Yarn](https://yarnpkg.com/)
 - [VS Code](https://code.visualstudio.com/)
+- [JSON Server](https://github.com/typicode/json-server)
+
+<p>Libraries:</p>
+
+- [date-fns](https://date-fns.org/)
+- [axios](https://axios-http.com/)
+- [rc-slider](https://github.com/schrodinger/rc-slider)
 
 <div align="center">
   <img  src="/docs/division.png" />
