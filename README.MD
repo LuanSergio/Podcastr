@@ -66,7 +66,7 @@ Next Level Week is a recurring online programming event made by the brazilian co
   <img src="/docs/layout-figma.png" />
 </a>
 
-You can **[click here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)?node-id=160%3A2761>)** to see the layout on Figma.
+You can **[click here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)?node-id=160%3A2761>)** to see the layout on Figma. The layout was made by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/?hl=pt-br)
 
 <div align="center">
   <img  src="/docs/division.png" />
