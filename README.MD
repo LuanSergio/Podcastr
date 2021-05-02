@@ -66,7 +66,7 @@ Next Level Week is a recurring online programming event made by the brazilian co
   <img src="/docs/layout-figma.png" />
 </a>
 
-You can **[click here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)?node-id=160%3A2761>)** to see the layout on Figma. The layout was made by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/?hl=pt-br)
+You can **[click here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)?node-id=160%3A2761>)** to see the layout on Figma, or **[here](<https://www.figma.com/file/5KchzYko8NeeV0suqrSi6x/Podcastr-(Copy)/duplicate>)** to copy it to your own figma.. The layout was made by **[Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/?hl=pt-br)**
 
 <div align="center">
   <img  src="/docs/division.png" />
@@ -104,16 +104,16 @@ On your favorite terminal, run the following commands:
 # Clone the repository
 $ git clone https://github.com/LuanSergio/Podcastr.git
 
-# Navigate to the repository folder
+# Navigate to the project folder
 $ cd podcastr
 
 # Install dependencies
 $ yarn install
 
-# Run the aplication locally and have fun coding
+# Run the application locally
 $ yarn dev
 
-# Build the aplication for production
+# Build the application for production
 $ yarn build
 ```
 
